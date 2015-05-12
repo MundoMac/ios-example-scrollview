@@ -81,8 +81,6 @@
 		F11AB2E91AE713C000AEF10A /* ScrollView */ = {
 			isa = PBXGroup;
 			children = (
-				F11AB2EE1AE713C000AEF10A /* AppDelegate.h */,
-				F11AB2EF1AE713C000AEF10A /* AppDelegate.m */,
 				F11AB2F11AE713C000AEF10A /* ViewController.h */,
 				F11AB2F21AE713C000AEF10A /* ViewController.m */,
 				F11AB2F41AE713C000AEF10A /* Main.storyboard */,
@@ -96,6 +94,8 @@
 		F11AB2EA1AE713C000AEF10A /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				F11AB2EE1AE713C000AEF10A /* AppDelegate.h */,
+				F11AB2EF1AE713C000AEF10A /* AppDelegate.m */,
 				F11AB2EB1AE713C000AEF10A /* Info.plist */,
 				F11AB2EC1AE713C000AEF10A /* main.m */,
 			);
@@ -416,6 +416,7 @@
 				F11AB30C1AE713C000AEF10A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		F11AB30D1AE713C000AEF10A /* Build configuration list for PBXNativeTarget "ScrollViewTests" */ = {
 			isa = XCConfigurationList;
@@ -424,6 +425,7 @@
 				F11AB30F1AE713C000AEF10A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
